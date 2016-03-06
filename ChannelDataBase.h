@@ -27,5 +27,6 @@
 -(NSInteger)getGroupID;
 //升序
 -(NSInteger)getID;
+-(void)test;
 
 @end
